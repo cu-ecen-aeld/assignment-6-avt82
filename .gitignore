@@ -1,4 +1,6 @@
 build
+build-rpi
+downloads
 .vscode
 valgrind-out.txt
 test.sh.log
